@@ -6,3 +6,4 @@ const arr3 = arr.filter(item => item < 3);
 
 console.log(arr2);
 console.log(arr3);
+console.log('hello');
